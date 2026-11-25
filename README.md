@@ -9,18 +9,18 @@ Free Community Edition offline sheet music scanner software, pinpoint proofreadi
 
 Read multi-page PDF scores, PNG or JPG scans, and existing MusicXML files on your own computer. Audition engraved notation with a sampled grand piano, verify uncertain bars against cropped source excerpts, edit pitches or rhythms directly, and export MusicXML, MIDI, or WAV.
 
-**Score Craft Community Edition is free to download and use.** Use the core workflow locally and decide from real output.
+**Score Craft Community Edition is free to download and use.** Full offline PDF and image scanning, grand-staff engraving, Salamander Grand piano auditioning, Studio Proofreading Dock, and complete notation editing free forever.
 
 [Download Community Edition](https://hannes-software.com/score-craft/download/) · [Product guide](https://hannes-software.com/score-craft/) · [Help](https://hannes-software.com/score-craft/help/) · [Report a bug](https://github.com/hannes-wan/score-craft-official/issues/new?template=bug_report.yml)
 
-## Download Score Craft 0.1.0
+## Download Score Craft 0.1.1
 
 | Platform | Package | Use it when |
 | --- | --- | --- |
-| Linux x64 (APPIMAGE) | [score-craft-0.1.0-linux-x64.AppImage](https://github.com/hannes-wan/score-craft-official/releases/download/v0.1.0/score-craft-0.1.0-linux-x64.AppImage) | Portable Linux desktop package |
-| Linux x64 (DEB) | [score-craft-0.1.0-linux-x64.deb](https://github.com/hannes-wan/score-craft-official/releases/download/v0.1.0/score-craft-0.1.0-linux-x64.deb) | Debian, Ubuntu, Mint, and compatible systems |
-| Linux x64 (RPM) | [score-craft-0.1.0-linux-x64.rpm](https://github.com/hannes-wan/score-craft-official/releases/download/v0.1.0/score-craft-0.1.0-linux-x64.rpm) | Fedora, RHEL, openSUSE, and compatible systems |
-| Windows x64 | [score-craft-0.1.0-windows-x64-setup.exe](https://github.com/hannes-wan/score-craft-official/releases/download/v0.1.0/score-craft-0.1.0-windows-x64-setup.exe) | Guided Windows installer |
+| Linux x64 (APPIMAGE) | [score-craft-0.1.1-linux-x64.AppImage](https://github.com/hannes-wan/score-craft-official/releases/download/v0.1.1/score-craft-0.1.1-linux-x64.AppImage) | Portable Linux desktop package |
+| Linux x64 (DEB) | [score-craft-0.1.1-linux-x64.deb](https://github.com/hannes-wan/score-craft-official/releases/download/v0.1.1/score-craft-0.1.1-linux-x64.deb) | Debian, Ubuntu, Mint, and compatible systems |
+| Linux x64 (RPM) | [score-craft-0.1.1-linux-x64.rpm](https://github.com/hannes-wan/score-craft-official/releases/download/v0.1.1/score-craft-0.1.1-linux-x64.rpm) | Fedora, RHEL, openSUSE, and compatible systems |
+| Windows x64 | [score-craft-0.1.1-windows-x64-setup.exe](https://github.com/hannes-wan/score-craft-official/releases/download/v0.1.1/score-craft-0.1.1-windows-x64-setup.exe) | Guided Windows installer |
 
 Checksums, installation notes, and the complete platform matrix live on the [official download page](https://hannes-software.com/score-craft/download/).
 
@@ -73,6 +73,9 @@ Adjust pitches, accidentals, note values, ties, keys, meters, and tempos with fu
 
 ## Community Edition is genuinely useful
 
+- Offline PDF & image OMR
+- Salamander Grand playback
+- Proofreading dock & full editor
 
 Optional licensed workflows are available for people who need the expanded feature set. Licensing details belong on the website; the Community Edition remains the free way to evaluate and use the core product.
 
@@ -136,6 +139,20 @@ Each diagnostic pinpoints the exact bar, hand, pitch, and beat discrepancy along
 <summary><strong>Can I edit rhythms, accidentals, key signatures, and meters inside Score Craft?</strong></summary>
 
 Yes. Click any note or rest to shift semitones or octaves, apply flat, natural, or sharp accidentals, change durations from 1/1 to 1/32 with dots, toggle ties, add third intervals, enter pitches by letter name, or update bar tempo, meter, key signature, clef, and repeat barlines.
+
+</details>
+
+<details>
+<summary><strong>Which Score Craft installer should I download for Windows or Linux?</strong></summary>
+
+On Windows 10 or later (x64), download the official Windows x64 installer (.exe) directly from the download page or install Score Craft from Microsoft Store. On Linux x64, choose DEB, RPM, or portable AppImage. Every direct download publishes its SHA-256 checksum.
+
+</details>
+
+<details>
+<summary><strong>Can I open exported MusicXML or MIDI files in MuseScore, Dorico, Sibelius, or a DAW?</strong></summary>
+
+Yes. Score Craft exports standards-compliant MusicXML (.musicxml) and compressed MXL (.mxl) for desktop notation editors such as MuseScore, Dorico, Sibelius, and Finale, plus standard MIDI (.mid) for DAWs and rendered WAV (.wav) for practice playback.
 
 </details>
 

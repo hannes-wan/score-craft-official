@@ -5,7 +5,7 @@
 
 > Scan printed sheet music offline, proofread flagged beats against cropped source pages, and hear every edit live.
 
-Free Community Edition offline sheet music scanner, pinpoint proofreading workbench, and notation editor for PDFs, photos, and MusicXML.
+Free Community Edition offline sheet music scanner software, pinpoint proofreading workbench, and notation editor for PDFs, photos, and MusicXML.
 
 Read multi-page PDF scores, PNG or JPG scans, and existing MusicXML files on your own computer. Audition engraved notation with a sampled grand piano, verify uncertain bars against cropped source excerpts, edit pitches or rhythms directly, and export MusicXML, MIDI, or WAV.
 

@@ -13,6 +13,16 @@ Read multi-page PDF scores, PNG or JPG scans, and existing MusicXML files on you
 
 [Download Community Edition](https://hannes-software.com/score-craft/download/) · [Product guide](https://hannes-software.com/score-craft/) · [Help](https://hannes-software.com/score-craft/help/) · [Report a bug](https://github.com/hannes-wan/score-craft-official/issues/new?template=bug_report.yml)
 
+<!-- HANNES_STUDIO_HERO_START -->
+### Hear & See It Live — Zero Subscription, 100% Offline
+
+**Stop retyping PDF sheet music — proofread flagged beats beside cropped source pages and export MusicXML/MIDI offline.**
+
+[![Watch Interactive Audio A/B Demo](https://img.shields.io/badge/▶_Hear_Live_Audio_A%2FB-Watch_Walkthrough-2563eb?style=for-the-badge)](https://hannes-software.com/watch/score-craft/?utm_source=github&utm_medium=readme&utm_campaign=score-craft-hero) [![YouTube Short](https://img.shields.io/badge/YouTube-10s_Ear_Test-dc2626?style=for-the-badge&logo=youtube)](https://youtube.com/shorts/RVGhw8aAGEg)
+
+[![score-craft desktop workbench](https://hannes-software.com/assets/score-craft/screenshots/score-proofread-01.webp)](https://hannes-software.com/watch/score-craft/?utm_source=github&utm_medium=readme&utm_campaign=score-craft-hero)
+<!-- HANNES_STUDIO_HERO_END -->
+
 ## Download Score Craft 0.1.2
 
 | Platform | Package | Use it when |

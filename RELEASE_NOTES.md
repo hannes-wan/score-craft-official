@@ -1,7 +1,7 @@
 **Score Craft Community Edition is free to download and use.**
 
-Score Craft routes direct website purchases straight to its dedicated license page and clarifies Microsoft Store unlock status messaging.
+Score Craft 0.1.2 adds official Apple Silicon and Intel macOS support for offline sheet music scanning, grand staff pinpoint proofreading, live playback, and MusicXML, MIDI, and WAV export.
 
-- Pointed the direct purchase action straight to https://hannes-software.com/score-craft/license/ so Professional and Team checkout opens in one step.
-- Clarified Microsoft Store unlock status messaging when a Store add-on is not yet available for the current build.
-- Community Edition keeps offline sheet music scanning, pinpoint proofreading with cropped PDF excerpts, grand-staff editing, and live playback free; an effective license unlocks MusicXML, MIDI, and WAV export.
+- Brings offline sheet music scanning, cropped source excerpt proofreading for pitch, rhythm, and ties across grand staff measures, and MusicXML, MIDI, and WAV export to Apple Silicon and Intel macOS with Developer ID signing and Apple notarization.
+- Adds sandboxed Mac App Store packaging with StoreKit non-consumable permanent unlock support and export-compliance metadata.
+- Synchronizes Linux, Windows, and macOS release manifests and store packaging identifiers on version 0.1.2.
